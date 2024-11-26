@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Hi, I'm Jeongeun(Claire) Kim, currently a Ph.D. student in Electrical and Computer Engineering at the University of Southern California. My current research focuses on computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.
+
 Education
 ======
 * Ph.D in Electrical and Computer Engineering, USC ()
@@ -15,20 +17,16 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan 2023 - Jul 2023: Researcher 
+  * Korea Electronics Technology Institute 
+  * Embedded OS Development
+  * Docker Experience 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2017 - Jan 2021: Hardware Design Engineer 
+  * SEMES 
+  * Next-Generation Controller Design for OHT (Overhead Hoist Transport)
+  * Power, Motor, and IO Control Circuit and PCB Design
+  * Firmware Design for Motor and IO Control
 
 Skills
 ======
@@ -40,11 +38,9 @@ Skills
 * Skill 3
 
 
-Getting started
-======
 
 Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+previously in [computer architecture lab](https://soc.seoultech.ac.kr/) 
 
 

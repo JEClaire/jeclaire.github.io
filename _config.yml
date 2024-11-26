@@ -24,7 +24,7 @@ author:
   avatar           : "profile_claire.jpg"
   name             : "Jeongeun(Claire) Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Hi, I'm Jeongeun(Claire) Kim, currently a Ph.D. student in Electrical and Computer Engineering at the University of Southern California. My current research focuses on computer architecture, VLSI and fundamental abstractions for agile chip development methodologies."
+  bio              : #"Hi, I'm Jeongeun(Claire) Kim, currently a Ph.D. student in Electrical and Computer Engineering at the University of Southern California. My current research focuses on computer architecture, VLSI and fundamental abstractions for agile chip development methodologies."
   location         : "Los Angeles, California"
   employer         : "University of Southern California"
   uri              : # URL
