@@ -7,7 +7,7 @@
 main:
 
   - title: "Research"
-    url: /educations/    
+    url: /research/    
 
   - title: "Publications"
     url: /publications/
@@ -17,12 +17,7 @@ main:
     
   - title: "Experience"
     url: /experience/
-        
-  - title: "Awards"
-    url: /awards/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
