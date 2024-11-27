@@ -8,8 +8,7 @@ redirect_from:
 
 
 
-Research
-======
+# Research
 Under the guidance of Professor [Christopher Torng](https://ctorng.com), my research interests are in the area of computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.
 For more information about our lab and ongoing projects, please visit our [Acorn Research Group](https://acorn-research.usc.edu).
 
