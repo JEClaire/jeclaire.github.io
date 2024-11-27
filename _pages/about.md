@@ -6,10 +6,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Jeongeun(Claire) Kim, currently a Ph.D. student in Electrical and Computer Engineering at the University of Southern California. 
+Research
+======
 Under the guidance of Professor [Christopher Torng](https://ctorng.com), my research interests are in the area of computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.
-
 For more information about our lab and ongoing projects, please visit our [Acorn Research Group](https://acorn-research.usc.edu).
+
+------
+During my master’s studies, I was advised by Professor [Seung Eun Lee](https://soc.seoultech.ac.kr/Professor/Professor.html) and worked as a member of the Computer Architecture Lab.
+For more information about the lab, please visit the [lab’s website](https://soc.seoultech.ac.kr/).
 
 ------
 
@@ -34,7 +38,4 @@ Work experience
   * Firmware Design for Motor and IO Control
 
 
-------
-During my master’s studies, I was advised by Professor [Seung Eun Lee](https://soc.seoultech.ac.kr/Professor/Professor.html) and worked as a member of the Computer Architecture Lab.
-For more information about the lab, please visit the [lab’s website](https://soc.seoultech.ac.kr/).
 

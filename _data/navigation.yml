@@ -6,18 +6,12 @@
 
 main:
 
-  - title: "Research"
-    url: /research/    
-
   - title: "Publications"
     url: /publications/
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Experience"
+  - title: "ASIC Experience"
     url: /experience/
-    
-  - title: "CV"
-    url: /cv/
     
