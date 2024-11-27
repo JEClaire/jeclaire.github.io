@@ -6,6 +6,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 Research
 ======
 Under the guidance of Professor [Christopher Torng](https://ctorng.com), my research interests are in the area of computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.
@@ -13,7 +15,7 @@ For more information about our lab and ongoing projects, please visit our [Acorn
 
 ------
 During my master’s studies, I was advised by Professor [Seung Eun Lee](https://soc.seoultech.ac.kr/Professor/Professor.html) and worked as a member of the Computer Architecture Lab.
-For more information about the lab, please visit the [lab’s website](https://soc.seoultech.ac.kr/).
+For more information about the lab, please visit the [Computer Architecture Lab](https://soc.seoultech.ac.kr/).
 
 ------
 
@@ -28,14 +30,14 @@ Education
 
 Work experience
 ======
-* Korea Electronics Technology Institute, Researcher, Jan 2023-Jul 2023 
-  * Embedded OS Development
-  * Docker Experience 
+* Korea Electronics Technology Institute(KETI), Researcher, Jan 2023-Jul 2023 
+  * Embedded OS development
+  * Docker experience 
 
 * SEMES, Hardware Design Engineer, Jan 2017-Jan 2021
-  * Next-Generation Controller Design for OHT (Overhead Hoist Transport)
-  * Power, Motor, and IO Control Circuit and PCB Design
-  * Firmware Design for Motor and IO Control
+  * Next-generation controller design for OHT(Overhead Hoist Transport)
+  * Power, motor, and IO control circuit and PCB design
+  * Firmware design for motor and IO control
 
 
 
