@@ -7,40 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Jeongeun(Claire) Kim, currently a Ph.D. student in Electrical and Computer Engineering at the University of Southern California. My current research focuses on computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.
+Hi, I'm Jeongeun(Claire) Kim, currently a Ph.D. student in Electrical and Computer Engineering at the University of Southern California. 
+Under the guidance of Professor [Christopher Torng](https://ctorng.com), my research interests are in the area of computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.
+For more information about our lab and ongoing projects, please visit our [Acorn Research Group](https://acorn-research.usc.edu).
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, USC ()
-* M.S. in Electronic Engineering, Seoultech, 2023
-* B.S. in Electronic Engineering, Seoultech, 2017
+* Ph.D in Electrical and Computer Engineering, USC, 2023-Present
+* M.S. in Electronic Engineering, Seoultech, 2021-2023
+* B.S. in Electronic Engineering, Seoultech, 2013-2017
 
 Work experience
 ======
-* Jan 2023 - Jul 2023: Researcher 
+* Researcher, Jan 2023-Jul 2023 
   * Korea Electronics Technology Institute 
   * Embedded OS Development
   * Docker Experience 
 
-* Jan 2017 - Jan 2021: Hardware Design Engineer 
+* Hardware Design Engineer, Jan 2017-Jan 2021
   * SEMES 
   * Next-Generation Controller Design for OHT (Overhead Hoist Transport)
   * Power, Motor, and IO Control Circuit and PCB Design
   * Firmware Design for Motor and IO Control
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-
-
-Site-wide configuration
 ------
-previously in [computer architecture lab](https://soc.seoultech.ac.kr/) 
-
+During my master’s studies, I was advised by Professor [Seung Eun Lee](https://soc.seoultech.ac.kr/Professor/Professor.html) and worked as a member of the Computer Architecture Lab.
+For more information about the lab, please visit the [lab’s website](https://soc.seoultech.ac.kr/).
 
