@@ -5,7 +5,7 @@ permalink: /research/2023-04-06-stochastic-mdpi
 excerpt: '
 <div style="display: flex; gap: 10px;">
   <img src="../images/mdpi_stochastic/mdpi_sto_arch.png" alt="arch" width="500">
-  <img src="../images/mdpi_stochastic/mdpi_sto_pfsr.png" alt="board" width="500">
+  <img src="../images/mdpi_stochastic/mdpi_sto_lfsr.png" alt="board" width="500">
 </div>'
 
 
