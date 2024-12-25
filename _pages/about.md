@@ -18,7 +18,9 @@ For more information about the lab, please visit the [Computer Architecture Lab]
 Education
 ======
 Ph.D in Electrical and Computer Engineering, USC, 2023-Present
+
 M.S. in Electronic Engineering, Seoultech, 2021-2023
+
 B.S. in Electronic Engineering, Seoultech, 2013-2017
 
 
