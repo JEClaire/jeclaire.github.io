@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 title: About me
 ---
-Hi, I'm Jeongeun(Claire) Kim, currently a Ph.D. student in Electrical and Computer Engineering at USC, advised by Professor [Christopher Torng](https://ctorng.com). My research interests are in the area of computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.
+Hi, I'm Jeongeun(Claire) Kim, currently a Ph.D. student at USC, advised by Professor [Christopher Torng](https://ctorng.com). My research interests are in the area of computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.
 For more information about our lab and ongoing projects, please visit our [Acorn Research Group](https://acorn-research.usc.edu).
 
 ------
