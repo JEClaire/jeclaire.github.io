@@ -4,8 +4,8 @@ collection: research
 permalink: /research/2021-10-19-stochastic-isocc
 excerpt: '
 <div style="display: flex; gap: 10px;">
-  <img src="../images/isocc_stochastic/isocc_sto_arch.png" alt="arch" style="max-height: 100%; max-width: 100%;">
-  <img src="../images/isocc_stochastic/isocc_sto_image_processing.png" alt="board" style="max-height: 100%; max-width: 100%;">
+  <img src="../images/isocc_stochastic/isocc_sto_arch.png" alt="arch" style="width: 500px; height: auto;">
+  <img src="../images/isocc_stochastic/isocc_sto_image_processing.png" alt="board" style="height: suto; width: 500px;">
 </div>'
 
 
