@@ -79,13 +79,13 @@ publication_category:
     title: 'Conference Papers'
 
 # Research Category - The following the list of publication categories and their headings
-research_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+#research_category:
+#  books:
+#    title: 'Books'
+#  manuscripts:
+#    title: 'Journal Articles'    
+#  conferences:
+#    title: 'Conference Papers'
 
 
 # Site Settings

@@ -36,4 +36,16 @@ Work experience
   * Firmware design for motor and IO control
 
 
+------
 
+Gradiate courses
+======
+EE457
+EE477
+EE658
+CSCI570
+EE577a
+Resilient Processor Design, AI Processor Architecture, SoC Design Methodology
+Advanced Computer Architecture, Pattern Recognition
+Introduction to integrated circuits and systems
+RF/Analog Integrated Circuits and Systems, Solid State Theory
