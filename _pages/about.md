@@ -38,13 +38,13 @@ Work experience
 
 ------
 
-Gradiate courses
+Graduate courses
 ======
-EE457
-EE477
-EE658
-CSCI570
-EE577a
+EE457 computer systems organization  
+EE477 MOS VLSI circuit design  
+EE658 Diagnosis and design of reliable degital systems  
+CSCI570 Analysis of algorithms  
+EE577a VLSI system design  
 Resilient Processor Design, AI Processor Architecture, SoC Design Methodology
 Advanced Computer Architecture, Pattern Recognition
 Introduction to integrated circuits and systems
