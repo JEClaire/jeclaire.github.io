@@ -17,23 +17,22 @@ For more information about the lab, please visit the [Computer Architecture Lab]
 
 Education
 ======
-2023-Present Ph.D in Electrical and Computer Engineering, USC  
-2021-2023    M.S. in Electronic Engineering, Seoultech  
-2013-2017    B.S. in Electronic Engineering, Seoultech  
+**2023-Present** Ph.D in Electrical and Computer Engineering, USC  
+**2021-2023   ** M.S. in Electronic Engineering, Seoultech  
+**2013-2017   ** B.S. in Electronic Engineering, Seoultech  
 
 
 ------
 
 Experience
 ======
-**Aug 2023-Present** USC, Acorn Research Group, Research Assistant  
-**Jan 2023-Jul 2023** Korea Electronics Technology Institute(KETI), Researcher
+**Aug 2023-Present** USC, Acorn Research Group, Research Assistant   
+**Jan 2023-Jul 2023** Korea Electronics Technology Institute(KETI), Researcher  
 **Jan 2021-Feb 2023** Seoultech, Computer Architecture Lab, Research Assistant  
-**Jan 2017-Jan 2021** SEMES, Hardware Design Engineer
+**Jan 2017-Jan 2021** SEMES, Hardware Design Engineer  
  •Next-generation controller design for OHT(Overhead Hoist Transport)  
  •Power, motor, and IO control circuit and PCB design  
  •Firmware design for motor and IO control  
-
 **Jan 2014-Feb 2017** Seoultech, Intelligent Control Lab, Undergraduate Researcher
 
 
@@ -42,25 +41,29 @@ Experience
 Honors & awards
 ======
 **2023** USC Graduate School Fellowship  
-**2022** The 23rd Semiconductor Design Competition of Korea 
-     Corporate(LX Semicon) Special Award, Korea Semiconductor Industry Association  
-     Topic: AI Processor employing Stochastic Computing for Embedded Systems  
+**2022** The 23rd Semiconductor Design Competition of Korea Corporate(LX Semicon) Special Award,  
+      •Korea Semiconductor Industry Association  
+      •Topic: AI Processor employing Stochastic Computing for Embedded Systems  
      
 ------
 
 Patents
 ======
-**US Patent Application** 
+**US Patent Application**   
+
 •Method and System for Determining Final Result Using Federated Learning  
 18/529,700 · Filed Dec 5, 202318/529,700 · Filed Dec 5, 2023  
 
 •Federated Learning Method and System Using Shared Learning Data  
 18/529,584 · Filed Dec 5, 2023  
 
-**Registered SW Copyright**
+**Registered SW Copyright**  
+
 •SW.1  Stochastic Computing Circuit with Parallel Architecture
      Registration No.C-2023-023359, May, 2023, Korea(right owned by SeoulTech)
 
+
+------
 Skills
 ======
 • Hardware description language: Verilog  
@@ -72,11 +75,11 @@ Skills
 
 Graduate courses
 ======
-**EE457**   computer systems organization  
-**EE477**   MOS VLSI circuit design  
-**EE658**   Diagnosis and design of reliable degital systems  
-**CSCI570** Analysis of algorithms  
-**EE577a**  VLSI system design  
+**EE457  ** Computer Systems Organization  
+**EE477  ** MOS VLSI Circuit Design  
+**EE658  ** Diagnosis and Design of Reliable Digital Systems  
+**CSCI570** Analysis of Algorithms  
+**EE577a ** VLSI System Design  
 Resilient Processor Design, AI Processor Architecture, 
 SoC Design Methodology, Advanced Computer Architecture, 
 Pattern Recognition, Introduction to integrated circuits and systems,  

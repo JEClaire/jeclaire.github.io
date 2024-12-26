@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "EE599 Complex Digital ASIC System Design"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2024-fall-ee599
+venue: "USC, Department of Electrical and Computer Engineering"
+date: 2024-09-01
+location: "Los Angeles, USA"
 ---
+This course offers students the opportunity to apply their expertise in architecture and VLSI design to develop hardware for an application of their choice and complete a full chip design cycle within a 15-week timeline. The course culminates in students taping out their own chip using Intel's advanced 16nm technology.
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Students work in small teams (4–5 members) to design and fabricate their chips. Teams are required to include at least two members committed to participating in post-silicon bringup in an ASIC prototyping lab, ensuring a comprehensive learning experience from initial design to fabrication and validation.
 
-Heading 1
-======
+As a TA, my responsibilities included:
 
-Heading 2
-======
-
-Heading 3
-======
+Weekly Team Sync-ups: Guiding students through the design process, ensuring project milestones were met, and providing technical assistance.  
+Top Module Integration: Compiling and verifying individual design blocks submitted by students, designing the top-level module, and preparing the final design for fabrication.  
+Post-Silicon Support: Assisting with chip bringup in the lab once fabricated designs were returned.  
