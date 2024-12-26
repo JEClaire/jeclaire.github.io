@@ -17,30 +17,67 @@ For more information about the lab, please visit the [Computer Architecture Lab]
 
 Education
 ======
-Ph.D in Electrical and Computer Engineering, USC, 2023-Present
-M.S. in Electronic Engineering, Seoultech, 2021-2023
-B.S. in Electronic Engineering, Seoultech, 2013-2017
+2023-Present Ph.D in Electrical and Computer Engineering, USC  
+2021-2023    M.S. in Electronic Engineering, Seoultech  
+   - Thesis Title : "Parallel Stochastic Computing Architecture for Computationally Intensive Applications"
+2013-2017    B.S. in Electronic Engineering, Seoultech  
 
 
 ------
 
-Work experience
+Experience
 ======
-* Korea Electronics Technology Institute(KETI), Researcher, Jan 2023-Jul 2023 
+Aug 2023-Present **USC, Acorn Research Group, Research Assistant,**  
+  * Teaching Assistant 
+  	* Fall 2024 EE599 Complex Digital ASIC System Design 
+
+Jan 2023-Jul 2023 Korea Electronics Technology Institute(KETI), Researcher, 
   * Embedded OS development
   * Docker experience 
 
-* SEMES, Hardware Design Engineer, Jan 2017-Jan 2021
+Jan 2021-Feb 2023 **Seoultech, Computer Architecture Lab, Research Assistant,**  
+  * Teaching Assistant 
+  	* Fall 2021 SoC Design Methodology 
+  	* Fall 2021 Computer Architecture 
+  	* Spring 2021 Digital System Design 
+
+Jan 2017-Jan 2021 **SEMES, Hardware Design Engineer,**
   * Next-generation controller design for OHT(Overhead Hoist Transport)
   * Power, motor, and IO control circuit and PCB design
   * Firmware design for motor and IO control
+
+Jan 2014-Feb 2017 **Seoultech, Intelligent Control Lab, Undergraduate Researcher,**
+
+
+------
+
+Honors & awards
+======
+Aug 2023-Present **USC, Acorn Research Group, Research Assistant,**  
+
+
+------
+
+Patents
+======
+Aug 2023-Present **USC, Acorn Research Group, Research Assistant,**  
+
+
+------
+
+Skills
+======
+• Hardware description language: Verilog
+• High-level Computer Language: C/C++, Python
+• EDA tools: Design Compiler, IC Compiler, IC Compiler II, PrimeTime, VCS, Verdi, Formality, StarRC,
+Quartus II, ModelSim, PSpice, Altium
 
 
 ------
 
 Graduate courses
 ======
-EE457 computer systems organization  
+**EE457** computer systems organization  
 EE477 MOS VLSI circuit design  
 EE658 Diagnosis and design of reliable degital systems  
 CSCI570 Analysis of algorithms  
@@ -49,3 +86,5 @@ Resilient Processor Design, AI Processor Architecture, SoC Design Methodology
 Advanced Computer Architecture, Pattern Recognition
 Introduction to integrated circuits and systems
 RF/Analog Integrated Circuits and Systems, Solid State Theory
+
+
