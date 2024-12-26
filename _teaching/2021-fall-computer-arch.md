@@ -1,0 +1,20 @@
+---
+title: "Computer Architecture"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2021-fall-computer-arch
+venue: "Seoultech, Department of Electrical Engineering"
+date: 2021-09-01
+location: "Seoul, South Korea"
+---
+Term: Fall 2021 
+
+This course offers students the opportunity to apply their expertise in architecture and VLSI design to develop hardware for an application of their choice and complete a full chip design cycle within a 15-week timeline. The course culminates in students taping out their own chip using Intel's advanced 16nm technology.
+
+Students work in small teams (4–5 members) to design and fabricate their chips. Teams are required to include at least two members committed to participating in post-silicon bringup in an ASIC prototyping lab, ensuring a comprehensive learning experience from initial design to fabrication and validation.
+
+As a TA, my responsibilities included:
+
+Weekly Team Sync-ups: Guiding students through the design process, ensuring project milestones were met, and providing technical assistance.  
+Top Module Integration: Compiling and verifying individual design blocks submitted by students, designing the top-level module, and preparing the final design for fabrication.  
+Post-Silicon Support: Assisting with chip bringup in the lab once fabricated designs were returned.  
