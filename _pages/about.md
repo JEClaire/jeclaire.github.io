@@ -18,8 +18,8 @@ For more information about the lab, please visit the [Computer Architecture Lab]
 Education
 ======
 **2023-Present** Ph.D in Electrical and Computer Engineering, USC  
-**2021-2023   ** M.S. in Electronic Engineering, Seoultech  
-**2013-2017   ** B.S. in Electronic Engineering, Seoultech  
+**2021-2023** M.S. in Electronic Engineering, Seoultech  
+**2013-2017** B.S. in Electronic Engineering, Seoultech  
 
 
 ------
@@ -30,18 +30,15 @@ Experience
 **Jan 2023-Jul 2023** Korea Electronics Technology Institute(KETI), Researcher  
 **Jan 2021-Feb 2023** Seoultech, Computer Architecture Lab, Research Assistant  
 **Jan 2017-Jan 2021** SEMES, Hardware Design Engineer  
- •Next-generation controller design for OHT(Overhead Hoist Transport)  
- •Power, motor, and IO control circuit and PCB design  
- •Firmware design for motor and IO control  
 **Jan 2014-Feb 2017** Seoultech, Intelligent Control Lab, Undergraduate Researcher
 
 
 ------
 
-Honors & awards
+Honors & Awards
 ======
 **2023** USC Graduate School Fellowship  
-**2022** The 23rd Semiconductor Design Competition of Korea Corporate(LX Semicon) Special Award,  
+**2022** The 23rd Semiconductor Design Competition of Korea Corporate Special Award,  
       •Korea Semiconductor Industry Association  
       •Topic: AI Processor employing Stochastic Computing for Embedded Systems  
      
@@ -50,7 +47,6 @@ Honors & awards
 Patents
 ======
 **US Patent Application**   
-
 •Method and System for Determining Final Result Using Federated Learning  
 18/529,700 · Filed Dec 5, 202318/529,700 · Filed Dec 5, 2023  
 
@@ -58,13 +54,13 @@ Patents
 18/529,584 · Filed Dec 5, 2023  
 
 **Registered SW Copyright**  
-
-•SW.1  Stochastic Computing Circuit with Parallel Architecture
+•SW.1  Stochastic Computing Circuit with Parallel Architecture  
      Registration No.C-2023-023359, May, 2023, Korea(right owned by SeoulTech)
 
 
 ------
-Skills
+
+Skills  
 ======
 • Hardware description language: Verilog  
 • High-level Computer Language: C/C++, Python  
@@ -75,11 +71,11 @@ Skills
 
 Graduate courses
 ======
-**EE457  ** Computer Systems Organization  
-**EE477  ** MOS VLSI Circuit Design  
-**EE658  ** Diagnosis and Design of Reliable Digital Systems  
+**EE457** Computer Systems Organization  
+**EE477** MOS VLSI Circuit Design  
+**EE658** Diagnosis and Design of Reliable Digital Systems  
 **CSCI570** Analysis of Algorithms  
-**EE577a ** VLSI System Design  
+**EE577a** VLSI System Design  
 Resilient Processor Design, AI Processor Architecture, 
 SoC Design Methodology, Advanced Computer Architecture, 
 Pattern Recognition, Introduction to integrated circuits and systems,  
