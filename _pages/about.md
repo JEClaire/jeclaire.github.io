@@ -6,11 +6,11 @@ redirect_from:
   - /about.html
 title: About me
 ---
-Hi, I'm Jeongeun(Claire) Kim, currently a Ph.D. student at USC, advised by Professor [Christopher Torng](https://ctorng.com). My research interests are in the area of computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.
+Hi, I'm Jeongeun(Claire) Kim, currently a Ph.D. student at USC, advised by Professor [Christopher Torng](https://ctorng.com). My research interests are in the area of computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.  
 For more information about our lab and ongoing projects, please visit our [Acorn Research Group](https://acorn-research.usc.edu).
 
 ------
-During my master’s studies, I was advised by Professor [Seung Eun Lee](https://soc.seoultech.ac.kr/Professor/Professor.html) and worked as a member of the Computer Architecture Lab.
+During my master’s studies, I was advised by Professor [Seung Eun Lee](https://soc.seoultech.ac.kr/Professor/Professor.html) and worked as a member of the Computer Architecture Lab.  
 For more information about the lab, please visit the [Computer Architecture Lab](https://soc.seoultech.ac.kr/).
 
 ------
@@ -19,7 +19,6 @@ Education
 ======
 2023-Present Ph.D in Electrical and Computer Engineering, USC  
 2021-2023    M.S. in Electronic Engineering, Seoultech  
-  Thesis Title : "Parallel Stochastic Computing Architecture for Computationally Intensive Applications"  
 2013-2017    B.S. in Electronic Engineering, Seoultech  
 
 
@@ -28,23 +27,12 @@ Education
 Experience
 ======
 **Aug 2023-Present** USC, Acorn Research Group, Research Assistant  
-  Teaching Assistant  
-  	Fall2024 EE599 Complex Digital ASIC System Design 
-
 **Jan 2023-Jul 2023** Korea Electronics Technology Institute(KETI), Researcher
-  Embedded OS development
-  Docker experience 
-
 **Jan 2021-Feb 2023** Seoultech, Computer Architecture Lab, Research Assistant  
-  Teaching Assistant 
-  	Fall 2021 SoC Design Methodology 
-  	Fall 2021 Computer Architecture  
-  	Spring 2021 Digital System Design  
-
 **Jan 2017-Jan 2021** SEMES, Hardware Design Engineer
-  Next-generation controller design for OHT(Overhead Hoist Transport)  
-  Power, motor, and IO control circuit and PCB design  
-  Firmware design for motor and IO control  
+ •Next-generation controller design for OHT(Overhead Hoist Transport)  
+ •Power, motor, and IO control circuit and PCB design  
+ •Firmware design for motor and IO control  
 
 **Jan 2014-Feb 2017** Seoultech, Intelligent Control Lab, Undergraduate Researcher
 
@@ -53,7 +41,8 @@ Experience
 
 Honors & awards
 ======
-**Oct 2022** The 23rd Semiconductor Design Competition of Korea 
+**2023** USC Graduate School Fellowship  
+**2022** The 23rd Semiconductor Design Competition of Korea 
      Corporate(LX Semicon) Special Award, Korea Semiconductor Industry Association  
      Topic: AI Processor employing Stochastic Computing for Embedded Systems  
      
@@ -61,37 +50,36 @@ Honors & awards
 
 Patents
 ======
-US Patent Application  
-Method and System for Determining Final Result Using Federated Learning  
+**US Patent Application** 
+•Method and System for Determining Final Result Using Federated Learning  
 18/529,700 · Filed Dec 5, 202318/529,700 · Filed Dec 5, 2023  
 
-Federated Learning Method and System Using Shared Learning Data  
+•Federated Learning Method and System Using Shared Learning Data  
 18/529,584 · Filed Dec 5, 2023  
 
-Registered SW Copyright
- SW.1  Stochastic Computing Circuit with Parallel Architecture
+**Registered SW Copyright**
+•SW.1  Stochastic Computing Circuit with Parallel Architecture
      Registration No.C-2023-023359, May, 2023, Korea(right owned by SeoulTech)
 
 Skills
 ======
 • Hardware description language: Verilog  
 • High-level Computer Language: C/C++, Python  
-• EDA tools: Design Compiler, IC Compiler, IC Compiler II, PrimeTime, VCS, Verdi, Formality, StarRC,  
-Quartus II, ModelSim, PSpice, Altium  
+• EDA tools: Design Compiler, IC Compiler, IC Compiler II, PrimeTime, VCS, Verdi, Formality, StarRC, Quartus II, ModelSim, PSpice, Altium  
 
 
 ------
 
 Graduate courses
 ======
-**EE457** computer systems organization  
-EE477 MOS VLSI circuit design  
-EE658 Diagnosis and design of reliable degital systems  
-CSCI570 Analysis of algorithms  
-EE577a VLSI system design  
-Resilient Processor Design, AI Processor Architecture, SoC Design Methodology
-Advanced Computer Architecture, Pattern Recognition
-Introduction to integrated circuits and systems
+**EE457**   computer systems organization  
+**EE477**   MOS VLSI circuit design  
+**EE658**   Diagnosis and design of reliable degital systems  
+**CSCI570** Analysis of algorithms  
+**EE577a**  VLSI system design  
+Resilient Processor Design, AI Processor Architecture, 
+SoC Design Methodology, Advanced Computer Architecture, 
+Pattern Recognition, Introduction to integrated circuits and systems,  
 RF/Analog Integrated Circuits and Systems, Solid State Theory
 
 
