@@ -9,12 +9,15 @@ location: "Seoul, South Korea"
 ---
 Term: Fall 2021 
 
-This course offers students the opportunity to apply their expertise in architecture and VLSI design to develop hardware for an application of their choice and complete a full chip design cycle within a 15-week timeline. The course culminates in students taping out their own chip using Intel's advanced 16nm technology.
+This course builds upon the foundations of Digital Engineering and Introduction to Computer Programming, exploring the execution and operation of instructions within a computer, along with the associated logic and organization. The primary focus is on CPU architecture, covering:
 
-Students work in small teams (4–5 members) to design and fabricate their chips. Teams are required to include at least two members committed to participating in post-silicon bringup in an ASIC prototyping lab, ensuring a comprehensive learning experience from initial design to fabrication and validation.
+The structure and operation of the Arithmetic Logic Unit (ALU).
+The organization and functionality of memory.
+Logical structures for subroutine execution, including the roles of the stack, stack pointer (SP), and program counter (PC).
+The operation of the instruction register (IR) and instruction decoder (ID) using RTL (Register Transfer Level) logic.
+Students gain practical experience by learning fundamental assembly programming concepts. The course aims to equip students with the skills to work with computer systems and provides a foundation for understanding CPU and interface design.  
 
-As a TA, my responsibilities included:
+As a TA, my responsibilities included:  
 
-Weekly Team Sync-ups: Guiding students through the design process, ensuring project milestones were met, and providing technical assistance.  
-Top Module Integration: Compiling and verifying individual design blocks submitted by students, designing the top-level module, and preparing the final design for fabrication.  
-Post-Silicon Support: Assisting with chip bringup in the lab once fabricated designs were returned.  
+Grading: Evaluating midterm and final exams to assess student understanding.
+Lab Assignment Management and Evaluation: grading their assignments based on performance and correctness.

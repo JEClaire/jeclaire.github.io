@@ -10,7 +10,7 @@ Hi, I'm Jeongeun(Claire) Kim, currently a Ph.D. student at USC, advised by Profe
 For more information about our lab and ongoing projects, please visit our [Acorn Research Group](https://acorn-research.usc.edu).
 
 ------
-During my master’s studies, I was advised by Professor [Seung Eun Lee](https://soc.seoultech.ac.kr/Professor/Professor.html) and worked as a member of the Computer Architecture Lab.  
+During my master’s studies, I was advised by Professor [Seung Eun Lee](https://soc.seoultech.ac.kr/Professor/Professor.html).  
 For more information about the lab, please visit the [Computer Architecture Lab](https://soc.seoultech.ac.kr/).
 
 ------
@@ -38,7 +38,7 @@ Experience
 Honors & Awards
 ======
 **2023** USC Graduate School Fellowship  
-**2022** The 23rd Semiconductor Design Competition of Korea Corporate Special Award,  
+**2022** The 23rd Semiconductor Design Competition of Korea Corporate Special Award  
       •Korea Semiconductor Industry Association  
       •Topic: AI Processor employing Stochastic Computing for Embedded Systems  
      
@@ -57,9 +57,9 @@ Graduate courses
 ======
 **EE457** Computer Systems Organization,  
 **EE477** MOS VLSI Circuit Design,    
+**EE577a** VLSI System Design,    
 **EE658** Diagnosis and Design of Reliable Digital Systems,  
 **CSCI570** Analysis of Algorithms,   
-**EE577a** VLSI System Design,    
 Resilient Processor Design, AI Processor Architecture, 
 SoC Design Methodology, Advanced Computer Architecture, 
 Pattern Recognition, Introduction to integrated circuits and systems,  
