@@ -11,7 +11,7 @@ For more information about our lab and ongoing projects, please visit our [Acorn
 
 ------
 During my master’s studies, I was advised by Professor [Seung Eun Lee](https://soc.seoultech.ac.kr/Professor/Professor.html).  
-For more information about the lab, please visit the [Computer Architecture Lab](https://soc.seoultech.ac.kr/).
+For more information about the lab, please visit the [Computer Architecture Lab](https://soc.seoultech.ac.kr/) and [my personal page](https://soc.seoultech.ac.kr/Alumni/Kim_JE.html).
 
 ------
 
@@ -60,6 +60,7 @@ Graduate courses
 **EE577a** VLSI System Design,    
 **EE658** Diagnosis and Design of Reliable Digital Systems,  
 **CSCI570** Analysis of Algorithms,   
+
 Resilient Processor Design, AI Processor Architecture, 
 SoC Design Methodology, Advanced Computer Architecture, 
 Pattern Recognition, Introduction to integrated circuits and systems,  

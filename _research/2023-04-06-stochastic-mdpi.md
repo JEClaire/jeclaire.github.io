@@ -6,7 +6,9 @@ excerpt: '
 <div style="display: flex; gap: 10px;">
   <img src="../images/mdpi_stochastic/mdpi_sto_arch.png" alt="arch">
   <img src="../images/mdpi_stochastic/mdpi_sto_lfsr.png" alt="board">
-</div>'
+</div>
+| ![arch](../images/mdpi_sto_arch.png) | ![board](../images/mdpi_sto_lfsr.png) |
+|-------------------------------------|-------------------------------------|'
 
 
 

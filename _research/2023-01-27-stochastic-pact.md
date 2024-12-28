@@ -10,7 +10,7 @@ excerpt: '
 
 
 date: 2023-01-27
-venue: 'PACT '22: International Conference on Parallel Architectures and Compilation Techniques'
+venue: 'PACT 22: International Conference on Parallel Architectures and Compilation Techniques'
 paperurl: 'https://dl.acm.org/doi/10.1145/3559009.3569689'
 citation: 'Jeongeun Kim, Youngwoo Jeong, Suyeon Jang, and Seung Eun Lee. 2023. An Architecture for Resilient Federated Learning through Parallel Recognition. In Proceedings of the International Conference on Parallel Architectures and Compilation Techniques (PACT '22). Association for Computing Machinery, New York, NY, USA, 546–547.'
 ---

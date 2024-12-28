@@ -1,5 +1,5 @@
 ---
-title: "Digital System Design"
+title: "186018 Digital System Design"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-digital-system-design
