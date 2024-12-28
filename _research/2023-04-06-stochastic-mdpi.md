@@ -2,14 +2,7 @@
 title: "Parallel Stochastic Computing Architecture for Computationally Intensive Applications"
 collection: research 
 permalink: /research/2023-04-06-stochastic-mdpi
-excerpt: '
-<div style="display: flex; gap: 10px;">
-  <img src="../images/mdpi_stochastic/mdpi_sto_arch.png" alt="arch">
-  <img src="../images/mdpi_stochastic/mdpi_sto_lfsr.png" alt="board">
-</div>
-| ![arch](../images/mdpi_sto_arch.png) | ![board](../images/mdpi_sto_lfsr.png) |
-|-------------------------------------|-------------------------------------|'
-
+excerpt: '![arch](../images/mdpi_sto_arch.png) | ![board](../images/mdpi_sto_lfsr.png)'
 
 
 date: 2023-04-06
