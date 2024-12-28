@@ -1,5 +1,5 @@
 ---
-title: "186021 Computer Architecture"
+title: "[186021] Computer Architecture"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-computer-arch

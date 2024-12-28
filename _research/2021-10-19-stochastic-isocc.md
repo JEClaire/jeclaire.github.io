@@ -3,7 +3,7 @@ title: "Reconfigurable Stochastic Computing Architecture for Computationally Int
 collection: research 
 permalink: /research/2021-10-19-stochastic-isocc
 excerpt: '
-<div style="display: flex; gap: 10px;">
+<div>
   <img src="../images/isocc_stochastic/isocc_sto_arch.png" alt="arch">
   <img src="../images/isocc_stochastic/isocc_sto_image_processing.png" alt="board">
 </div>'

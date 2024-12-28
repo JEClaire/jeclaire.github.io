@@ -1,5 +1,5 @@
 ---
-title: "9530034 SoC Design Methodology"
+title: "[9530034] SoC Design Methodology"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-fall-soc-design
