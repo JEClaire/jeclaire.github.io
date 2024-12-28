@@ -41,9 +41,9 @@ Honors & Awards
 **2022** The 23rd Semiconductor Design Competition of Korea Corporate Special Award  
       •Korea Semiconductor Industry Association  
       •Topic: AI Processor employing Stochastic Computing for Embedded Systems  
-![slide](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg)
-![image](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg)
-![award](../images/chip_design_contest/Semiconductor_Design_Contest_KJE.jpg )
+[slide](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg)
+[image](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg)
+[award](../images/chip_design_contest/Semiconductor_Design_Contest_KJE.jpg )
      
 ------
 
