@@ -74,3 +74,6 @@ Pattern Recognition, Introduction to integrated circuits and systems,
 RF/Analog Integrated Circuits and Systems, Solid State Theory  
 
 
+Updates
+======
+• Passed the screening exam with EE457, EE477, EE577a, EE658, CSCI570!    
