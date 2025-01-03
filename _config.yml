@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jeongeun(Claire) Kim"
+title                    : "Claire Jeongeun Kim"
 title_separator          : "-"
 name                     : &name "Claire Kim"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_claire.jpg"
-  name             : "Jeongeun(Claire) Kim"
+  name             : "Claire Jeongeun Kim"
   pronouns         : # example: "she/her"  
   bio              : "Dept. of Electrical and Computer Engineering at USC"
   location         : "Los Angeles, California"
