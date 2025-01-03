@@ -12,6 +12,6 @@ This course focuses on system design using computers, covering methods for addre
 
 As a TA, my responsibilities included:
 
-Grading: Evaluating midterm and final exams to assess student understanding.
-Lab Assignment Management and Evaluation: Preparing lab assignments, uploading student code to FPGA boards to verify functionality, and grading their hands-on assignments based on performance and correctness.
-FPGA Board Management: Maintaining and managing experimental FPGA boards used in the course.
+• Grading: Evaluating midterm and final exams to assess student understanding.
+• Lab Assignment Management and Evaluation: Preparing lab assignments, uploading student code to FPGA boards to verify functionality, and grading their hands-on assignments based on performance and correctness.
+• FPGA Board Management: Maintaining and managing experimental FPGA boards used in the course.

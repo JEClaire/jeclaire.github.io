@@ -18,5 +18,5 @@ Students gain practical experience by learning fundamental assembly programming 
 
 As a TA, my responsibilities included:  
 
-Grading: Evaluating midterm and final exams to assess student understanding.
-Lab Assignment Management and Evaluation: grading their assignments based on performance and correctness.
+• Grading: Evaluating midterm and final exams to assess student understanding.
+• Lab Assignment Management and Evaluation: grading their assignments based on performance and correctness.

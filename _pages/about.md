@@ -40,11 +40,9 @@ Honors & Awards
 **2023** USC Graduate School Fellowship  
 **2022** The 23rd Semiconductor Design Competition of Korea Corporate Special Award  
       •Korea Semiconductor Industry Association  
-      •Topic: AI Processor employing Stochastic Computing for Embedded Systems  
+      •Topic: AI Processor employing Stochastic Computing for Embedded Systems
 
-[slide](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg)  
-[image](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg)  
-[award](../images/chip_design_contest/Semiconductor_Design_Contest_KJE.jpg )  
+[constst_image](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg) [award_image](../images/chip_design_contest/Semiconductor_Design_Contest_KJE.jpg )  
 
      
 ------
@@ -60,15 +58,19 @@ Skills
 
 Graduate courses
 ======
+[USC graduate courses]  
 **EE457** Computer Systems Organization,  
 **EE477** MOS VLSI Circuit Design,    
 **EE577a** VLSI System Design,    
 **EE658** Diagnosis and Design of Reliable Digital Systems,  
 **CSCI570** Analysis of Algorithms,   
 
-Resilient Processor Design, AI Processor Architecture, 
-SoC Design Methodology, Advanced Computer Architecture, 
-Pattern Recognition, Introduction to integrated circuits and systems,  
+[Seoultech graduate courses]  
+Resilient Processor Design,  
+AI Processor Architecture,  
+SoC Design Methodology,  
+Advanced Computer Architecture,  
+Pattern Recognition, Introduction to integrated circuits and systems,   
 RF/Analog Integrated Circuits and Systems, Solid State Theory
 
 
