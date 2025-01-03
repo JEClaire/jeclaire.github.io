@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 title: About me
 ---
-Hi, I'm Claire Jeongeun Kim, currently a Ph.D. student at USC, advised by Professor [Christopher Torng](https://ctorng.com). My research interests are in the area of computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.  
+Hi, I'm Claire Jeongeun Kim, currently a Ph.D. student at University of Southern California, advised by Professor [Christopher Torng](https://ctorng.com). My research interests are in the area of computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.  
 For more information about our lab and ongoing projects, please visit our [Acorn Research Group](https://acorn-research.usc.edu).
 
 ------
@@ -38,11 +38,10 @@ Experience
 Honors & Awards
 ======
 **2023** USC Graduate School Fellowship  
-**2022** The 23rd Semiconductor Design Competition of Korea Corporate Special Award  
+**2022** [The 23rd Semiconductor Design Competition of Korea Corporate Special Award](../images/chip_design_contest/Semiconductor_Design_Contest_KJE.jpg)  
       •Korea Semiconductor Industry Association  
       •Topic: AI Processor employing Stochastic Computing for Embedded Systems  
 [slides](../images/chip_design_contest/chip_design_contest.pdf )
-[award](../images/chip_design_contest/Semiconductor_Design_Contest_KJE.jp)
 [constest](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg) 
 
 
@@ -59,14 +58,14 @@ Skills
 
 Graduate courses
 ======
-<strong>[USC Graduate Courses]</strong>   
+<strong>• USC</strong>   
 **EE457** Computer Systems Organization,  
 **EE477** MOS VLSI Circuit Design,  
 **EE577a** VLSI System Design,  
 **EE658** Diagnosis and Design of Reliable Digital Systems,  
 **CSCI570** Analysis of Algorithms,  
 
-<strong>[Seoultech Graduate Courses]</strong>  
+<strong>• Seoultech</strong>   
 Resilient Processor Design,  
 AI Processor Architecture,  
 SoC Design Methodology,  

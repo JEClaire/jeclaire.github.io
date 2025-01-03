@@ -2,11 +2,17 @@
 title: "Parallel Stochastic Computing Architecture for Computationally Intensive Applications"
 collection: research 
 permalink: /research/2023-04-06-stochastic-mdpi
-excerpt:'<div style="text-align: center;">
-  <img src="../images/mdpi_stochastic/mdpi_sto_arch.png" alt="arch" style="display: inline-block; margin: 10px;">
-  <img src="../images/mdpi_stochastic/mdpi_sto_lfsr.png" alt="board" style="display: inline-block; margin: 10px;">
+
+excerpt: '
+<div>
+  <img src="../images/mdpi_stochastic/mdpi_sto_arch.png" alt="arch" style="max-width: 100%; height: auto; margin-bottom: 20px;">
+  <img src="../images/mdpi_stochastic/mdpi_sto_lfsr.png" alt="board" style="max-width: 100%; height: auto;">
 </div>'
 
+
+
+date: 2022-10-19
+venue: '19th International SoC Design Conference (ISOCC 2022)'
 
 date: 2023-04-06
 venue: 'Electronics'
