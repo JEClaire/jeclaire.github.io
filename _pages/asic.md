@@ -6,7 +6,7 @@ author_profile: true
 
 <!-- 첫 번째 프로젝트 -->
 **Title**:
-[AI processor based on Stochastic Computing for Embedded Systems](../images/asic/certificate_ss.png)  
+[AI processor based on Stochastic Computing for Embedded Systems](../images/asic/certificate_ss.png) [\[View chip photo\]](../images/asic/ss_chip.png)
 **Fab-in**: 2022-07-18  
 **Designer**: **Jeongeun Kim**, Kwonneung Cho, Changyeop Han, Won Sik Jeong
 
@@ -19,7 +19,7 @@ author_profile: true
 
 <!-- 두 번째 프로젝트 -->
 **Title**: 
-[In-Vehicle Network Processor based on Cortex-M0](../images/asic/certificate_hm.png)  
+[In-Vehicle Network Processor based on Cortex-M0](../images/asic/certificate_hm.png) [\[View chip photo\]](../images/asic/hm_chip.png) 
 **Fab-in**: 2022-03-16  
 **Designer**: Cho Kwon Neung, **Jeongeun Kim**, Hyunwoo Oh
 
