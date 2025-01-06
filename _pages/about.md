@@ -66,12 +66,14 @@ Graduate courses
 **CSCI570** Analysis of Algorithms,  
 
 <strong>[Seoultech]</strong>   
-Resilient Processor Design,  
-AI Processor Architecture,  
-SoC Design Methodology,  
-Advanced Computer Architecture,  
-Pattern Recognition, Introduction to integrated circuits and systems,  
-RF/Analog Integrated Circuits and Systems, Solid State Theory  
+**9530036** Resilient Processor Design,  
+**9530061** AI Processor Architecture,  
+**9530034** SoC Design Methodology,  
+**9530040** Advanced Computer Architecture,  
+**9530055** Pattern Recognition, 
+**9520073** Introduction to integrated circuits and systems,  
+**9520063** RF/Analog Integrated Circuits and Systems, 
+**9530016** Solid State Theory  
 
 ------
 
