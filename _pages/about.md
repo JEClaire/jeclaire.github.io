@@ -41,8 +41,8 @@ Honors & Awards
 **2022** [The 23rd Semiconductor Design Competition of Korea Corporate Special Award](../images/chip_design_contest/Semiconductor_Design_Contest_KJE.jpg)  
       •Korea Semiconductor Industry Association  
       •Topic: AI Processor employing Stochastic Computing for Embedded Systems  
-[Constest](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg) 
-[\[Slide(Korean)\]](../images/chip_design_contest/chip_design_contest.pdf)  
+[\[Slide(Korean)\]](../images/chip_design_contest/chip_design_contest.pdf) 
+[\[Photo from the competition\]](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg) 
 
 
 ------
@@ -58,14 +58,14 @@ Skills
 
 Graduate courses
 ======
-<strong>• USC</strong>   
+<strong>[USC]</strong>   
 **EE457** Computer Systems Organization,  
 **EE477** MOS VLSI Circuit Design,  
 **EE577a** VLSI System Design,  
 **EE658** Diagnosis and Design of Reliable Digital Systems,  
 **CSCI570** Analysis of Algorithms,  
 
-<strong>• Seoultech</strong>   
+<strong>[Seoultech]</strong>   
 Resilient Processor Design,  
 AI Processor Architecture,  
 SoC Design Methodology,  
