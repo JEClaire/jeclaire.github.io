@@ -51,7 +51,7 @@ Skills
 ======
 • Hardware description language: Verilog  
 • High-level Computer Language: C/C++, Python  
-• EDA tools: Design Compiler, IC Compiler, IC Compiler II, PrimeTime, VCS, Verdi, Formality, StarRC, Quartus II, ModelSim, PSpice, Altium  
+• EDA tools: Design Compiler, IC Compiler, IC Compiler II, PrimeTime, VCS, Verdi, Formality, StarRC, Quartus II, ModelSim, PSpice, Altium, Virtuoso, Innovus, Genus  
 
 
 ------
