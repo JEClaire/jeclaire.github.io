@@ -11,6 +11,10 @@ author_profile: true
 **Designer**: **Jeongeun Kim**, Kwonneung Cho, Changyeop Han, Won Sik Jeong
 
 <div style="display: flex; justify-content: center; gap: 40px;">
+  <img src="../images/asic/2201_kje_arch.png" alt="arch" style="max-width: 20%; height: auto;">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 40px;">
   <img src="../images/asic/2201_kje_mpw.png" alt="arch" style="max-width: 20%; height: auto;">
   <img src="../images/asic/table_ss.png" alt="board" style="max-width: 50%; height: auto;">
 </div>
