@@ -62,6 +62,7 @@ Graduate courses
 **EE457** Computer Systems Organization,  
 **EE477** MOS VLSI Circuit Design,  
 **EE577a** VLSI System Design,  
+**EE599** Complex Digital ASIC System Design,  
 **EE658** Diagnosis and Design of Reliable Digital Systems,  
 **CSCI570** Analysis of Algorithms,  
 
