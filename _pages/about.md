@@ -60,36 +60,36 @@ Graduate courses
 ======
 <strong>[USC]</strong>   
 ### **EE457 – Computer Systems Organization**
-<sub>• CPU architecture, pipelining, caches, virtual memory, Tomasulo OoO, CMP & coherency  
-• Designed CPU, ALU, FIFO, and branch logic in Verilog</sub>
+• CPU architecture, pipelining, caches, virtual memory, Tomasulo OoO, CMP & coherency  
+• Designed CPU, ALU, FIFO, and branch logic in Verilog
 
 ### **EE477 – M<F4> VLSI Circuit Design**
-<sub>• CM<F4> logic, device modeling, interconnects, static/dynamic circuits  
-• Designed full adder, multiplier, divider, and DFF schematic/layout in Virtuoso</sub>
+• CMOS logic, device modeling, interconnects, static/dynamic circuits  
+• Designed full adder, multiplier, divider, and DFF schematic/layout in Virtuoso
 
 ### **EE560 – Digital System Design**
-<sub>• Gated clocking, non-linear pipelines, Tomasulo OOO engine, CMP, PCIe, GPGPU, DRAM/DDR  
-• Implemented cache, CPU, FIFO (BRAM), Tomasulo units (FRL, BPB, SAB, SB, CFC, IU, ROB, Dispatch), AXI, CMP, PCIe, GPGPU modules in VHDL</sub>
+• Gated clocking, non-linear pipelines, Tomasulo OOO engine, CMP, PCIe, GPGPU, DRAM/DDR  
+• Implemented cache, CPU, FIFO (BRAM), Tomasulo units (FRL, BPB, SAB, SB, CFC, IU, ROB, Dispatch), AXI, CMP, PCIe, GPGPU modules in VHDL
 
 ### **EE577a – VLSI System Design**
-<sub>• Logical effort, pipelining, SRAM/CAM/DRAM  
-• Designed 512-bit SRAM (sense amp, precharge, decoders, write driver, output register) in Virtuoso</sub>
+• Logical effort, pipelining, SRAM/CAM/DRAM  
+• Designed 512-bit SRAM (sense amp, precharge, decoders, write driver, output register) in Virtuoso
 
 ### **EE577b – VLSI System Design II**
-<sub>• On-chip networks, IO, DFX methodologies  
-• Built and verified a 4×4 mesh NoC with CPU nodes in SystemVerilog</sub>
+• On-chip networks, IO, DFX methodologies  
+• Built and verified a 4×4 mesh NoC with CPU nodes in SystemVerilog
 
 ### **EE599 – Complex Digital ASIC System Design**
-<sub>• Synthesis, timing constraints, CTS, P&R, power domains  
-• Integrated top-level ASIC design using Intel 16nm technology</sub>
+• Synthesis, timing constraints, CTS, P&R, power domains  
+• Integrated top-level ASIC design using Intel 16nm technology
 
 ### **EE658 – Diagnosis and Design of Reliable Digital Systems**
-<sub>• Fault simulation, ATPG, boundary scan, BIST, memory/delay testing  
-• Developed logic & fault simulator and ATPG (D-algorithm, PODEM) in C++</sub>
+• Fault simulation, ATPG, boundary scan, BIST, memory/delay testing  
+• Developed logic & fault simulator and ATPG (D-algorithm, PODEM) in C++  
 
 ### **CSCI570 – Analysis of Algorithms**
-<sub>• Greedy, divide-and-conquer, dynamic programming, network flow, NP-completeness, linear programming  
-• Implemented sequence alignment algorithms (basic & memory-efficient) in Python</sub>
+• Greedy, divide-and-conquer, dynamic programming, network flow, NP-completeness, linear programming  
+• Implemented sequence alignment algorithms (basic & memory-efficient) in Python  
 
 <strong>[Seoultech]</strong>   
 **9530036** Resilient Processor Design,  
