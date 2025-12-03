@@ -59,30 +59,37 @@ Skills
 Graduate courses
 ======
 <strong>[USC]</strong>   
-**EE457** Computer Systems Organization,  
-      • Lecture: CPU architecture, pipelining, caches, virtual memory, Tomasulo OoO, CMP & coherency   
-      • Lab: Designed CPU, ALU, FIFO, and branch logic in Verilog    
-**EE477** MOS VLSI Circuit Design,  
-      • Lecture: CMOS logic, device modeling, interconnects, static/dynamic circuits   
-      • Lab: Designed full adder, multiplier, divider, and DFF schematic/layout in Virtuoso 
-**EE560** Digital System Design,  
-      • Lecture: Gated clocking, non linear pipeline, Tomasulo OOO engine, CMP, PCIe, GPGPU, DRAM/DDR systems 
-      • Lab: Implemented cache, CPU and FIFO with BRAM, Tomasulo units (FRL, BPB, SAB, SB, CFC, IU, ROB, Dispatch), AXI, CMP, PCIe, GPGPU modules in VHDL  
-**EE577a** VLSI System Design,  
-      • Lecture: Logical effort, pipelining, SRAM/CAM/DRAM architectures    
-      • Designed 512-bit SRAM (sense amp, precharge, decoders, write driver, output reg) in Virtuoso  
-**EE577b** VLSI System Design,  
-      • Lecture: On-chip networks, IO, DFX methodologies  
-      • Lab: Built and verified a 4×4 mesh NoC with CPU nodes using SystemVerilog 
-**EE599** Complex Digital ASIC System Design,  
-      • Lecture: Synthesis, timing constraints, CTS, P&R, power domain 
-      • Lab: Integrated top-level ASIC design using Intel 16nm technology    
-**EE658** Diagnosis and Design of Reliable Digital Systems,  
-      • Lecture: Fault simultaion, ATPG, Boundary scan, BIST, memory/delay testing  
-      • Lab: Developed logic/falut simulator, and ATPG (D-algorithm and PODEM) in C++  
-**CSCI570** Analysis of Algorithms,  
-      • Lecture: Greedy, divide-and-conquer, dynamic programming, network flow, NP-completeness, linear programming  
-      • Lab: Implemented sequence alignment algorithms (basic & memory-efficient) in Python 
+### **EE457 – Computer Systems Organization**
+<sub>• CPU architecture, pipelining, caches, virtual memory, Tomasulo OoO, CMP & coherency  
+• Designed CPU, ALU, FIFO, and branch logic in Verilog</sub>
+
+### **EE477 – M<F4> VLSI Circuit Design**
+<sub>• CM<F4> logic, device modeling, interconnects, static/dynamic circuits  
+• Designed full adder, multiplier, divider, and DFF schematic/layout in Virtuoso</sub>
+
+### **EE560 – Digital System Design**
+<sub>• Gated clocking, non-linear pipelines, Tomasulo OOO engine, CMP, PCIe, GPGPU, DRAM/DDR  
+• Implemented cache, CPU, FIFO (BRAM), Tomasulo units (FRL, BPB, SAB, SB, CFC, IU, ROB, Dispatch), AXI, CMP, PCIe, GPGPU modules in VHDL</sub>
+
+### **EE577a – VLSI System Design**
+<sub>• Logical effort, pipelining, SRAM/CAM/DRAM  
+• Designed 512-bit SRAM (sense amp, precharge, decoders, write driver, output register) in Virtuoso</sub>
+
+### **EE577b – VLSI System Design II**
+<sub>• On-chip networks, IO, DFX methodologies  
+• Built and verified a 4×4 mesh NoC with CPU nodes in SystemVerilog</sub>
+
+### **EE599 – Complex Digital ASIC System Design**
+<sub>• Synthesis, timing constraints, CTS, P&R, power domains  
+• Integrated top-level ASIC design using Intel 16nm technology</sub>
+
+### **EE658 – Diagnosis and Design of Reliable Digital Systems**
+<sub>• Fault simulation, ATPG, boundary scan, BIST, memory/delay testing  
+• Developed logic & fault simulator and ATPG (D-algorithm, PODEM) in C++</sub>
+
+### **CSCI570 – Analysis of Algorithms**
+<sub>• Greedy, divide-and-conquer, dynamic programming, network flow, NP-completeness, linear programming  
+• Implemented sequence alignment algorithms (basic & memory-efficient) in Python</sub>
 
 <strong>[Seoultech]</strong>   
 **9530036** Resilient Processor Design,  
