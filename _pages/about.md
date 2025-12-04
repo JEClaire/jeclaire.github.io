@@ -63,7 +63,7 @@ Graduate courses
 • CPU architecture, pipelining, caches, virtual memory, Tomasulo OoO, CMP & coherency  
 • Designed CPU, ALU, FIFO, and branch logic in Verilog
 
-### **EE477 – M<F4> VLSI Circuit Design**
+### **EE477 – MOS VLSI Circuit Design**
 • CMOS logic, device modeling, interconnects, static/dynamic circuits  
 • Designed full adder, multiplier, divider, and DFF schematic/layout in Virtuoso
 
