@@ -80,7 +80,7 @@ Graduate courses
 
 ### **EE599 – Complex Digital ASIC System Design**
 • Synthesis, timing constraints, CTS, P&R, power domains  
-• Integrated top-level ASIC design using Intel 16nm technology
+• Integrated top-level ASIC design and on-chip clock generator using Intel 16nm technology
 
 ### **EE658 – Diagnosis and Design of Reliable Digital Systems**
 • Fault simulation, ATPG, boundary scan, BIST, memory/delay testing  
