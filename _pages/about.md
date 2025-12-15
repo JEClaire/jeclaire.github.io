@@ -7,7 +7,7 @@ redirect_from:
 title: About me
 ---
 Hi, I'm Claire Jeongeun Kim, currently a Ph.D. student at University of Southern California. 🐎✌️
-I feel fortunate to be advised by Professor [Christopher Torng](https://ctorng.com) and to be a member of [Acorn Research Group](https://acorn-research.usc.edu) 🐿️. My research interests are in the area of computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.  
+I'm grateful to be advised by Professor [Christopher Torng](https://ctorng.com) and to be a member of [Acorn Research Group](https://acorn-research.usc.edu) 🐿️. My research interests are in the area of computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.  
 
 ------
 During my master’s studies, I was advised by Professor [Seung Eun Lee](https://soc.seoultech.ac.kr/Professor/Professor.html).  
@@ -17,6 +17,7 @@ For more information about the lab, please visit the [Computer Architecture Lab]
 
 📃 For further details, please find my <a href="../cv/cv.pdf">CV</a> (as of Dec 2025)
 
+------
 
 Education
 ======
@@ -29,11 +30,11 @@ Education
 
 Experience
 ======
-**Aug 2023-Present**   USC, Acorn Research Group, Research Assistant  
-**Jan 2023-Jul 2023**  Korea Electronics Technology Institute(KETI), Researcher  
-**Jan 2021-Feb 2023**  Seoultech, Computer Architecture Lab, Research Assistant  
-**Jan 2017-Jan 2021**  SEMES, Hardware Design Engineer  
-**Jan 2014-Feb 2017**  Seoultech, Intelligent Control Lab, Undergraduate Researcher  
+🐿️  [Aug 2023-Present]   USC, Acorn Research Group, Research Assistant  
+💼  [Jan 2023-Jul 2023]  Korea Electronics Technology Institute(KETI), Researcher  
+📔  **Jan 2021-Feb 2023**  Seoultech, Computer Architecture Lab, Research Assistant  
+💼  **Jan 2017-Jan 2021**  SEMES, Hardware Design Engineer  
+📔  **Jan 2014-Feb 2017**  Seoultech, Intelligent Control Lab, Undergraduate Researcher  
 
 
 ------
@@ -42,11 +43,9 @@ Honors & Awards
 ======
 **2023** USC Graduate School Fellowship  
 **2022** [The 23rd Semiconductor Design Competition of Korea Corporate Special Award](../images/chip_design_contest/Semiconductor_Design_Contest_KJE.jpg)  
-      •Korea Semiconductor Industry Association  
-      •Topic: AI Processor employing Stochastic Computing for Embedded Systems  
-[\[Slide(Korean)\]](../images/chip_design_contest/chip_design_contest.pdf) 
-[\[Photo from the competition\]](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg) 
-[\[News\]](https://www.seoultech.ac.kr/service/info/news?do=view&bnum=3596&bidx=526982&cate=1) 
+      • Korea Semiconductor Industry Association  
+      • Topic: AI Processor employing Stochastic Computing for Embedded Systems  
+      • [\[Slide(Korean)\]](../images/chip_design_contest/chip_design_contest.pdf) [\[Photo from the competition\]](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg) [\[News\]](https://www.seoultech.ac.kr/service/info/news?do=view&bnum=3596&bidx=526982&cate=1) 
 
 
 ------
