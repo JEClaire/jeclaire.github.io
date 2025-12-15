@@ -14,6 +14,8 @@ For more information about the lab, please visit the [Computer Architecture Lab]
 
 ------
 
+For further details, please find my CV(../cv/cv.pdf) (as of Dec, 2025)
+
 Education
 ======
 **2023-Present** Ph.D. in Electrical and Computer Engineering, USC  
@@ -42,6 +44,7 @@ Honors & Awards
       •Topic: AI Processor employing Stochastic Computing for Embedded Systems  
 [\[Slide(Korean)\]](../images/chip_design_contest/chip_design_contest.pdf) 
 [\[Photo from the competition\]](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg) 
+[\[News\]](https://www.seoultech.ac.kr/service/info/news?do=view&bnum=3596&bidx=526982&cate=1) 
 
 
 ------
