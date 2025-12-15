@@ -23,7 +23,7 @@ Experience
 ======
 🐿️  [Aug, 2023 - Present]    [USC](https://www.usc.edu), Acorn Research Group, Research Assistant  
 💼  [Jan, 2023 - Jul, 2023]  Korea Electronics Technology Institute([KETI](https://www.keti.re.kr/eng/main/main.php)), Researcher  
-📔  [Jan, 2021 - Feb, 2023]  S[eoultech](https://en.seoultech.ac.kr), Computer Architecture Lab, Research Assistant  
+📔  [Jan, 2021 - Feb, 2023]  [Seoultech](https://en.seoultech.ac.kr), Computer Architecture Lab, Research Assistant  
 💼  [Jan, 2017 - Jan, 2021]   [SEMES](https://www.semes.com), Hardware Design Engineer  
 📔  [Jan, 2014 - Feb, 2017]  Seoultech, Intelligent Control Lab, Undergraduate Researcher  
 
