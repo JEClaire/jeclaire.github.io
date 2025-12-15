@@ -24,8 +24,9 @@ Experience
 🐿️  [Aug, 2023 - Present]    USC, Acorn Research Group, Research Assistant  
 💼  [Jan, 2023 - Jul, 2023]  Korea Electronics Technology Institute([KETI](https://www.keti.re.kr/eng/main/main.php)), Researcher  
 📔  [Jan, 2021 - Feb, 2023]  Seoultech, Computer Architecture Lab, Research Assistant  
-💼  [Jan, 2017 - Jan, 2021]  S[SEMES](https://www.semes.com), Hardware Design Engineer  
+💼  [Jan, 2017 - Jan, 2021]   [SEMES](https://www.semes.com), Hardware Design Engineer  
 📔  [Jan, 2014 - Feb, 2017]  Seoultech, Intelligent Control Lab, Undergraduate Researcher  
+
 ------
 
 
@@ -33,7 +34,9 @@ Education
 ======
 👩‍💻 **2023-Present** Ph.D. in Electrical and Computer Engineering, USC  
 🎓  **2021-2023** M.S. in Electronic Engineering, Seoultech  
+      • [Thesis](https://openlink.libproxy.seoultech.ac.kr:8443/link.n2s?url=http://snut.dcollection.net/common/orgView/200000662093): Parallel stochastic computing architecture for computationally intensive applications  
 🎓 **2013-2017** B.S. in Electronic Engineering, Seoultech  
+
 ------
 
 Honors & Awards
@@ -43,6 +46,7 @@ Honors & Awards
       • Korea Semiconductor Industry Association  
       • Topic: AI Processor employing Stochastic Computing for Embedded Systems  
       • [\[Slide(Korean)\]](../images/chip_design_contest/chip_design_contest.pdf) [\[Photo from the competition\]](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg) [\[News\]](https://www.seoultech.ac.kr/service/info/news?do=view&bnum=3596&bidx=526982&cate=1) 
+
 ------
 
 Skills
@@ -73,19 +77,19 @@ Graduate courses
 • Logical effort, pipelining, SRAM/CAM/DRAM  
 • Designed 512-bit SRAM (sense amp, precharge, decoders, write driver, output register) in Virtuoso
 
-### **EE577b – VLSI System Design II**
+**EE577b – VLSI System Design II**
 • On-chip networks, IO, DFX methodologies  
 • Built and verified a 4×4 mesh NoC with CPU nodes in SystemVerilog
 
-### **EE599 – Complex Digital ASIC System Design**
+**EE599 – Complex Digital ASIC System Design**
 • Synthesis, timing constraints, CTS, P&R, power domains  
 • Integrated top-level ASIC design and on-chip clock generator using Intel 16nm technology
 
-### **EE658 – Diagnosis and Design of Reliable Digital Systems**
+**EE658 – Diagnosis and Design of Reliable Digital Systems**
 • Fault simulation, ATPG, boundary scan, BIST, memory/delay testing  
 • Developed logic & fault simulator and ATPG (D-algorithm, PODEM) in C++  
 
-### **CSCI570 – Analysis of Algorithms**
+**CSCI570 – Analysis of Algorithms**
 • Greedy, divide-and-conquer, dynamic programming, network flow, NP-completeness, linear programming  
 • Implemented sequence alignment algorithms (basic & memory-efficient) in Python  
 
