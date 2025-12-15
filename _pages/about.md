@@ -14,7 +14,7 @@ For more information about the lab, please visit the [Computer Architecture Lab]
 
 ------
 
-For further details, please find my CV(../cv/cv.pdf) (as of Dec, 2025)
+For further details, please find my [CV](../cv/cv.pdf) (as of Dec, 2025)
 
 Education
 ======
