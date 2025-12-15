@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 title: About me
 ---
-Hi, I'm Claire Jeongeun Kim, currently a Ph.D. student at University of Southern California. I feel fortunate to be advised by Professor [Christopher Torng](https://ctorng.com) and to be a member of [Acorn Research Group](https://acorn-research.usc.edu). My research interests are in the area of computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.  
+Hi, I'm Claire Jeongeun Kim, currently a Ph.D. student at University of Southern California. I feel fortunate to be advised by Professor [Christopher Torng](https://ctorng.com) and to be a member of [Acorn Research Group](https://acorn-research.usc.edu)🐿️. My research interests are in the area of computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.  
 
 ------
 During my master’s studies, I was advised by Professor [Seung Eun Lee](https://soc.seoultech.ac.kr/Professor/Professor.html).  
