@@ -30,11 +30,11 @@ Education
 
 Experience
 ======
-🐿️  [Aug 2023-Present]   USC, Acorn Research Group, Research Assistant  
-💼  [Jan 2023-Jul 2023]  Korea Electronics Technology Institute(KETI), Researcher  
-📔  **Jan 2021-Feb 2023**  Seoultech, Computer Architecture Lab, Research Assistant  
-💼  **Jan 2017-Jan 2021**  SEMES, Hardware Design Engineer  
-📔  **Jan 2014-Feb 2017**  Seoultech, Intelligent Control Lab, Undergraduate Researcher  
+🐿️  [Aug, 2023 - Present]    USC, Acorn Research Group, Research Assistant  
+💼  [Jan, 2023 - Jul, 2023]  Korea Electronics Technology Institute(KETI), Researcher  
+📔  [Jan, 2021 - Feb, 2023]  Seoultech, Computer Architecture Lab, Research Assistant  
+💼  [Jan, 2017 - Jan, 2021]  SEMES, Hardware Design Engineer  
+📔  [Jan, 2014 - Feb, 2017]  Seoultech, Intelligent Control Lab, Undergraduate Researcher  
 
 
 ------
