@@ -32,7 +32,7 @@ Experience
 
 Education
 ======
-👩‍💻 **2023-Present** Ph.D. i in Electrical and Computer Engineering, USC  
+👩‍💻 **2023-Present** PhPh.D. in Electrical and Computer Engineering, USC  
 🎓  **2021-2023** M.S. in Electronic Engineering, Seoultech  
       • [Thesis](https://openlink.libproxy.seoultech.ac.kr:8443/link.n2s?url=http://snut.dcollection.net/common/orgView/200000662093): Parallel stochastic computing architecture for computationally intensive applications  
 🎓 **2013-2017** B.S. in Electronic Engineering, Seoultech  
