@@ -19,8 +19,8 @@ Updates
 ======
 • **Jul 2026** Our paper ***Chipstitch*** has been accepted at [ICCAD 2026](https://iccad.com/2026)!  
 • **Jul 2026** Our paper ***PowerFlow-DNN*** has been accepted at [ISLPED 2026](https://www.islped.org/2026/) and nominated for the Best Paper Award!  
-• **Jan 2026** We taped in our chip in TSMC 40 (PowerFlow-DNN)  
-• **Feb 2025** We taped out our chip in Intel 16 (Chipstitch)   
+• **Jan 2026** We taped in our chip in TSMC 40nm (PowerFlow-DNN)  
+• **Feb 2025** We taped out our chip in Intel 16nm (Chipstitch)   
 • **Dec 2024** I passed the PhD screening exam with EE457, EE477, EE577a, EE658, CSCI570!    
 
 ------
