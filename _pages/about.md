@@ -10,8 +10,8 @@ Hi, I'm Claire Jeongeun Kim, currently a Ph.D. student at University of Southern
 I'm grateful to be advised by Professor [Christopher Torng](https://ctorng.com) and to be a member of [Acorn Research Group](https://acorn-research.usc.edu) 🐿️. My research interests are in the area of computer architecture, VLSI and fundamental abstractions for agile chip development methodologies.  
 
 ------
-During my master’s studies, I was advised by Professor [Seung Eun Lee](https://soc.seoultech.ac.kr/Professor/Professor.html).  
-For more information about the lab, please visit the [Computer Architecture Lab](https://soc.seoultech.ac.kr/) and [my personal page](https://soc.seoultech.ac.kr/Alumni/Kim_JE.html).
+During my master’s studies, I was advised by Professor [Seung Eun Lee](https://soc.seoultech.ac.kr/Professor/).  
+For more information about the lab, please visit the [Computer Architecture Lab](https://soc.seoultech.ac.kr/) and [my personal page](https://soc.seoultech.ac.kr/Alumni/Kim_JE/).
 
 ------
 
@@ -51,7 +51,7 @@ Honors & Awards
 **2022** [The 23rd Semiconductor Design Competition of Korea Corporate Special Award](../images/chip_design_contest/Semiconductor_Design_Contest_KJE.jpg)  
       • Korea Semiconductor Industry Association  
       • Topic: AI Processor employing Stochastic Computing for Embedded Systems  
-      • [\[Slides\]](../images/chip_design_contest/chip_design_contest.pdf) [\[Photo from the competition\]](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg) [\[News\]](https://www.seoultech.ac.kr/service/info/news?do=view&bnum=3596&bidx=526982&cate=1) 
+      • [\[Photo from the competition\]](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg) [\[News\]](https://www.seoultech.ac.kr/service/info/news?do=view&bnum=3596&bidx=526982&cate=1) 
 
 ------
 
