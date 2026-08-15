@@ -14,12 +14,12 @@ During my master’s studies, I was advised by Professor [Seung Eun Lee](https:/
 For more information about the lab, please visit the [Computer Architecture Lab](https://soc.seoultech.ac.kr/) and [my personal page](https://soc.seoultech.ac.kr/Alumni/Kim_JE.html).
 
 ------
-Updates
-======
-• **Jul 2026** Our paper Chipstitch has been accepted at [ICCAD 2026](https://iccad.com/2026)!
-• **Jul 2026** Our paper PowerFlow-DNN has been accepted at [ISLPED 2026](https://www.islped.org/2026/) and nominated for the Best Paper Award!
-• **Jan 2026** We taped in our chip in TSMC 40 (PowerFlow-DNN project)
-• **Feb 2025** We taped out our chip in Intel 16 (Chipstitch project)   
+Updates  
+======  
+• **Jul 2026** Our paper **Chipstitch** has been accepted at [ICCAD 2026](https://iccad.com/2026)!  
+• **Jul 2026** Our paper **PowerFlow-DNN** has been accepted at [ISLPED 2026](https://www.islped.org/2026/) and nominated for the Best Paper Award!  
+• **Jan 2026** We taped in our chip in TSMC 40 (PowerFlow-DNN)  
+• **Feb 2025** We taped out our chip in Intel 16 (Chipstitch)   
 • **Dec 2024** Passed the PhD screening exam with EE457, EE477, EE577a, EE658, CSCI570!    
 
 ------
