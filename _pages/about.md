@@ -17,11 +17,12 @@ For more information about the lab, please visit the [Computer Architecture Lab]
 
 Updates
 ======
-• **Jul 2026** Our paper ***Chipstitch*** has been accepted at [ICCAD 2026](https://iccad.com/2026)!  
-• **Jul 2026** Our paper ***PowerFlow-DNN*** has been accepted at [ISLPED 2026](https://www.islped.org/2026/) and nominated for the Best Paper Award!  
+• **Jul 2026** Our paper [***Chipstitch***](https://arxiv.org/pdf/2512.10089) has been accepted at [ICCAD 2026](https://iccad.com/2026)!  
+• **Jul 2026** Our paper [***PowerFlow-DNN***](https://doi.org/10.1145/3816440.3818667) has been accepted at [ISLPED 2026](https://www.islped.org/2026/) and nominated for the Best Paper Award!   
 • **Jan 2026** We taped in our chip in TSMC 40nm (PowerFlow-DNN)  
-• **Feb 2025** We taped out our chip in Intel 16nm (Chipstitch)   
+• **Feb 2025** We taped out our chip in Intel 16nm (Chipstitch-beta)   
 • **Dec 2024** I passed the PhD screening exam with EE457, EE477, EE577a, EE658, CSCI570!    
+• **Feb 2024** We taped out our chip in Intel 16nm (Chipstitch-alpha)   
 
 ------
 
@@ -50,7 +51,7 @@ Honors & Awards
 **2023** USC Graduate School Fellowship  
 **2022** [The 23rd Semiconductor Design Competition of Korea Corporate Special Award](../images/chip_design_contest/Semiconductor_Design_Contest_KJE.jpg)  
       • Korea Semiconductor Industry Association  
-      • Topic: AI Processor employing Stochastic Computing for Embedded Systems  
+      • Topic: AI Processor employing Stochastic Computing for Embedded Systems (Samsung 28nm)   
       • [\[Photo from the competition\]](../images/chip_design_contest/Semiconductor_Design_Contest_Presentation.jpg) [\[News\]](https://www.seoultech.ac.kr/service/info/news?do=view&bnum=3596&bidx=526982&cate=1) 
 
 ------
